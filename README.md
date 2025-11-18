@@ -1,8 +1,8 @@
 # DS2-HLS
 
 Code repository for the paper:  
-**"Two-Stage Distribution-Aware Learning and Gradient Conflict
-Mitigation for Robust HLS Design Prediction"**
+**"Two-Stage Hierarchy-Aware Learning and Gradient Conflict
+Mitigation for HLS Performance Prediction"**
 
 ---
 
